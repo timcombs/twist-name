@@ -1,0 +1,23 @@
+{
+  "name": "twist-name",
+  "version": "1.0.0",
+  "description": "javascript two string name manipulation",
+  "main": "twistName.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timcombs/twist-name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timcombs/twist-name/issues"
+  },
+  "homepage": "https://github.com/timcombs/twist-name#readme"
+}
